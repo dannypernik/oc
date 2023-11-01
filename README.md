@@ -1,5 +1,5 @@
-#openCurrents
-##Do good, create Currents
+# openCurrents
+## Do good, create Currents
 
 openCurrents is a community first: a collective seeking to better the world through social action, earned trust, and global currency accessible to all.
 
