@@ -9,6 +9,6 @@ If you are a business owner or service provider, you are invited to accept Curre
 
 If you are part of a nonprofit, you can benefit as a volunteer or as an organizer of volunteers. Add the details of current or upcoming projects, provide a budget of required hours, and request community approval to issue Currents for the work.
 
-If you are simply a person with an idea to better the world in some way big or small, then share it. If the community supports it, you'll get to create Currents with your time, and we will help you find people who want to better the world with you.
+If you are simply a person with an idea, big or small, to make the world a better place, then share it. If the community supports it, you'll get to create Currents with your time, and we will help you find people who want to better the world with you.
 
 openCurrents is a work in progress. If you'd like to hear more, offer feedback, or get involved, please do not hesitate to reach out.
