@@ -1,5 +1,6 @@
-# openCurrents
+![logo](https://github.com/dannypernik/oc/assets/3347095/8ec9a473-f0dc-47ac-9674-13862f50d629)
 ## Do good, create Currents
+
 
 openCurrents is a community first: a collective seeking to better the world through social action, earned trust, and global currency accessible to all.
 
